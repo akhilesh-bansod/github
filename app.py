@@ -1,4 +1,6 @@
 # rock-paper-scissors-game
+#First person Akhilesh 
+#Second person Harsh
 import random
 
 u_points = 0
